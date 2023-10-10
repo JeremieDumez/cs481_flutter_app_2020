@@ -1,0 +1,86 @@
+{
+  "connectButton": "Connect",
+  "@connectButton": {
+    "description": "Connect Button"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "yes"
+  },
+  "no": "No",
+  "@no": {
+    "description": "no"
+  },
+  "hintSearch": "Enter a search text",
+  "@hintSearch": {
+    "description": "Hint text for gallery search textfield"
+  },
+  "hideImage": "Hide images",
+  "@hideImage": {
+    "description": "Tooltip of floating action button"
+  },
+  "disconnect": "Disconnect",
+  "@disconnect": {
+    "description": "title disconnect listtile drawer"
+  },
+  "disconnectAlert": "Are you sure you want to logout ?",
+  "@disconnectAlert": {
+    "description": "Content Alert dialog"
+  },
+  "pickImage": "Pick an Image",
+  "@pickImage": {
+    "description": "Button select image title"
+  },
+  "uploadGallery": "Upload to your gallery",
+  "@uploadGallery": {
+    "description": "Button upload page title"
+  },
+  "noImageSelected": "No image selected",
+  "@noImageSelected": {
+    "description": "String when no image is selected"
+  },
+  "imageSuccess": "Image was successfully upload to your gallery",
+  "@imageSuccess": {
+    "description": "String when image successfully added"
+  },
+  "snackbarUpload": "Image uploaded!",
+  "@snackbarUpload": {
+    "description": "String when an image is uploaded"
+  },
+  "bottomBarUpload": "Upload",
+  "@bottomBarUpload": {
+    "description": "Bottom bar navigation tab data Upload"
+  },
+  "bottomBarHome": "Home",
+  "@bottomBarHome": {
+    "description": "Bottom bar navigation tab data Home"
+  },
+  "bottomBarSearch": "Search",
+  "@bottomBarSearch": {
+    "description": "Bottom bar navigation tab data Search"
+  },
+  "profileSectionTitleJoined": "JOINED",
+  "@profileSectionTitleJoined": {
+    "description": "Profile drawer body section title JOINED"
+  },
+  "profileSectionTitleAbout": "ABOUT",
+  "@profileSectionTitleAbout": {
+    "description": "Profile drawer body section title ABOUT"
+  },
+  "profileSectionTitleFilters": "FILTERS",
+  "@profileSectionTitleFilters": {
+    "description": "Profile drawer body section title FILTERS"
+  },
+  "profileNewsletterSubscription": "Subs to newsletter",
+  "@profileNewsletterSubscription": {
+    "description": "Profile Newsletter Subscription"
+  },
+  "profileShowViralContent": "Show viral content",
+  "@profileShowViralContent": {
+    "description": "Profile Show viral content"
+  },
+  "profileShowMatureContent": "Show mature content (NSFW)",
+  "@profileShowMatureContent": {
+    "description": "Profile Show mature content"
+  }
+}

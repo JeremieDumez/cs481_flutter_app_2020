@@ -1,0 +1,23 @@
+{
+  "connectButton": "Se connecter",
+  "yes": "Oui",
+  "no": "Non",
+  "hintSearch": "Rechercher",
+  "hideImage": "Masquer les images",
+  "disconnect": "Déconnexion",
+  "disconnectAlert": "Êtes-vous sûr de vouloir vous déconnecter ?",
+  "pickImage": "Sélectionne une photo",
+  "uploadGallery": "Ajoute à ta galerie",
+  "noImageSelected": "Aucune photo sélectionnée",
+  "imageSuccess": "Votre photo a bien été ajouté à votre galerie",
+  "snackbarUpload": "Photo téléchargée!",
+  "bottomBarUpload": "Charger",
+  "bottomBarHome": "Accueil",
+  "bottomBarSearch": "Rechercher",
+  "profileSectionTitleJoined": "DATE DE CRÉATION",
+  "profileSectionTitleAbout": "À PROPOS",
+  "profileSectionTitleFilters": "FILTRES",
+  "profileNewsletterSubscription": "Recevoir des mails",
+  "profileShowViralContent": "Afficher contenu viral",
+  "profileShowMatureContent": "Afficher contenu mature"
+}
